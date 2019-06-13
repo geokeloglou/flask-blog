@@ -1,0 +1,1 @@
+__Blog of Others is a blog that anyone can post.__
